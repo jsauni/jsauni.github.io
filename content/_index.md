@@ -1,17 +1,11 @@
 ---
-title: My Site
+title: 
 toc: false
 ---
 
-This is the landing page.
+Hi, my name is Jacob Sauni.
+
+I'm an enthusiastic senior engineer with a passion for problem solving by building solutions with code and automation. This is my digital garden.
 
 ## Explore
 
-{{< cards >}}
-  {{< card link="docs" title="Docs" icon="book-open" >}}
-  {{< card link="about" title="About" icon="user" >}}
-{{< /cards >}}
-
-## Documentation
-
-For more information, visit [Hextra](https://imfing.github.io/hextra).
