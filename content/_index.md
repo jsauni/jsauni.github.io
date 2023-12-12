@@ -9,3 +9,6 @@ I'm an enthusiastic senior engineer with a passion for problem solving by buildi
 
 ## Explore
 
+{{< cards >}}
+  {{< card link="testing" title="Testing" icon="beaker" >}}
+{{< /cards >}}
