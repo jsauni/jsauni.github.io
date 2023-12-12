@@ -18,21 +18,18 @@ markup:
 
 menu:
   main:
-    #- name: Docs
-    #  pageRef: /docs
-    #  weight: 1
-    #- name: About
-    #  pageRef: /about
-    #  weight: 2
-    #- name: Contact ↗
-    #  url: "https://github.com/imfing"
-    #  weight: 3
+    - name: Home
+      pageRef: /
+      weight: 1
+    - name: About
+      pageRef: /about
+      weight: 2
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
     - name: GitHub
-      weight: 5
+      weight: 4
       url: "https://github.com/jsauni"
       params:
         icon: github
@@ -49,3 +46,6 @@ params:
   editURL:
     enable: true
     base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+
+  theme:
+    default: dark
