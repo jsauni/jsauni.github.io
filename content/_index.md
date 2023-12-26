@@ -12,5 +12,5 @@ This is my digital garden
 ## Explore
 
 {{< cards >}}
-  {{< card link="testing" title="Testing" icon="beaker" >}}
+  {{< card link="docs/testing" title="Testing" icon="beaker" >}}
 {{< /cards >}}
