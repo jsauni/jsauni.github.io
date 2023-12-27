@@ -12,5 +12,6 @@ This is my digital garden
 ## Explore
 
 {{< cards >}}
+  {{< card link="docs/terraform" title="Terraform" icon="template" >}}
   {{< card link="docs/testing" title="Testing" icon="beaker" >}}
 {{< /cards >}}
