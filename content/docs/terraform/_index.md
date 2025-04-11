@@ -3,10 +3,6 @@ title: Terraform
 toc: true
 ---
 
-Space to dump my learnings around Terraform.
+Space to dump my Terraform projects
 
-- [ ] CLI
-- [ ] Configuration Language
-- [ ] Modules
-- [ ] Provision
-- [ ] State
+- Deploy a Microservices Application on ECS
